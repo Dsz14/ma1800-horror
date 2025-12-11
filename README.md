@@ -1,5 +1,5 @@
 # ma1800-horror
 
-https://github.com/Dsz14/ma1800-horror.git
 
+(https://dsz14.github.io/ma1800-horror/)
 
